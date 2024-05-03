@@ -12,7 +12,7 @@
 
 <p align="left animation: typing 3s steps(10) infinite, cursor .4s step-end infinite alternate;"> <img src="https://komarev.com/ghpvc/?username=kashifjavaid1&label=Profile%20views&color=0e75b6&style=flat" alt="kashifjavaid1" /> </p>
 
-- 🔭 I’m currently working on Next-js Prisma Orm **Task complete application**
+- 🔭 I’m currently working on React-js React-Native Next-js TypeScript Firebase Mongodb**
 
 - 🌱 I’m currently learning **Javascript,Typescript,React-js,Next-js,Mongodb,Prisma Orm, React-Native with Firebase,Redux Toolkit**
 
