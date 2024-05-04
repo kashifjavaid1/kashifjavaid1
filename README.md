@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **React-js, Next-js with Mongodb,React Native with Firebase,Redux Toolkit**
 
-- 📫 How to reach me **kashifjavaid839@gmail.com**
+- 📫 How to reach me **kashifjavaid839@gmail.com **
   <br>
   <br>
   <hr/>
