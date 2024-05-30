@@ -8,7 +8,7 @@
 </h3>
 <p align="left animation: typing 3s steps(10) infinite, cursor .4s step-end infinite alternate;"> <img src="https://komarev.com/ghpvc/?username=kashifjavaid1&label=Profile%20views&color=0e75b6&style=flat" alt="kashifjavaid1" /> </p>
 
-- 🔭 I’m currently working on React-js React-Native Next-js TypeScript Firebase Mongodb**
+- 🔭 I’m currently working on React-js React-Native Next-js TypeScript Firebase Mongodb Node-js**
 
 - 🌱 I’m currently learning **Tailwand Css Javascript,Typescript,React-js,Next-js,Mongodb,Prisma Orm, React-Native with Firebase,Electron-js Redux Toolkit**
 
