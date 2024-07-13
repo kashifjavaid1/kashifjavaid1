@@ -2,7 +2,7 @@
 <h3>
   <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&center=true&vCenter=true&width=1000&height=70&lines=Hi+👋%2C+I'm+Muhammad+Kashif+javaid!" alt="Hi there!" align="center">
 </h3>
-<h3 align="center <h1 align="center">Hi 👋, I'm Muhammad Kashif Javaid </h1>
+<h3 align="center <h1 align="center">Hi 👋, I'm Muhammad Kashif Javaid</h1>
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&center=true&vCenter=true&width=1000&height=70&lines=🚀%20Web%20and%20Mobile%20Application%20Developer%20📱%20!&color=007ACC" alt="typing animation"></h3>
 <p align="left animation: typing 3s steps(10) infinite, cursor .4s step-end infinite alternate;"><img src="https://komarev.com/ghpvc/?username=kashifjavaid1&label=Profile%20views&color=0e75b6&style=flat" alt="kashifjavaid1" /> </p>
