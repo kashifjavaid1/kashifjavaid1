@@ -9,9 +9,7 @@
 - 🔭 I’m currently working on React-js React-Native Next-js TypeScript Firebase Mongodb Node-js**
 
 - 🌱 I’m currently learning **Tailwand Css Javascript,Typescript,React-js,Next-js,Node-js,Mongodb,Prisma Orm, React-Native with Firebase,Electron-js Redux Toolkit**
-
 - 💬 Ask me about **React-js, Next-js with Mongodb,React Native with Firebase,Redux Toolkit**
-
 - 📫 How to reach me **kashifjavaid839@gmail.com **
   <br>
   <br>
