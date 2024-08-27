@@ -15,7 +15,6 @@
   <hr/>
   <br>
 <img align="right" src="https://res.cloudinary.com/practicaldev/image/fetch/s--7uXrM6C1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1jsj8dy2kxbmgio1tegl.gif" alt="codeing" width="400">
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kashif javaid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kashif javaid" height="30" width="40" /></a>
