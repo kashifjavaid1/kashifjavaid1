@@ -15,7 +15,7 @@
 - 🔭 I’m currently working on **React.js, React Native, Next.js, TypeScript, Firebase, MongoDB, Node.js**
 - 🌱 I’m currently learning **Tailwind CSS, Prisma ORM, Electron.js, and Redux Toolkit**
 - 💬 Ask me about **MERN Stack & Mobile App Development**
-- 📫 How to reach me: *gmdcf797@gmail.com**
+- 📫 How to reach me: *gmdcf797@gmail.com*
 
 <br>
 
